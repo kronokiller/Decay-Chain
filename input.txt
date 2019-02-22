@@ -1,0 +1,21 @@
+# all input values are separated by commas
+
+# The decay rate is specified as "half-life", "decay constant", or
+# "mean lifetime", the magnitude may be given as as a decimal or scientific
+# notation, and the units may be "s", "m", "h", "d", or "y"
+
+Decay Rate A = half-life, 1.2, h
+Decay Rate B = half-life, 9.1, h
+
+# The initial count of each atom may be given in moles or without units
+# The units for moles is "mol". If unitless leave the space after the comma blank
+
+Initial Count A = 100,
+Initial Count B = 0,
+Initial Count C = 0,
+
+# The time delta for numerical solutions and the final time may be
+# entered the same way as the decay rate magnitude and units
+
+Time Delta = 1, h
+Final Time = 50, h

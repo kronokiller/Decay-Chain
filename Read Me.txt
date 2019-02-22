@@ -1,0 +1,1 @@
+To use, just adjust inputs in input.txt and settings in settings.txt then call your python interpreter to main.py. Descriptions of each input and setting can be found in heir respective file. Inputs and settings are set to generate all images and output files initially included in the folder with a single run of main.py
